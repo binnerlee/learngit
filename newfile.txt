@@ -1,3 +1,19 @@
 在master 分支第一次修改newfile.txt
 在master分支第二次提交之前添加一行。
 在master 分支第二次修改newfile.txt
+一次错误的提交；
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
