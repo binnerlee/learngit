@@ -3,9 +3,6 @@
 在master 分支第二次修改newfile.txt
 一次错误的提交；
 
-又要向github上推送一次了；
-
-
 
 
 
